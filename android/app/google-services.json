@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "836843711117",
+    "firebase_url": "https://abinet-571a8-default-rtdb.firebaseio.com",
+    "project_id": "abinet-571a8",
+    "storage_bucket": "abinet-571a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836843711117:android:7762c857da03104aea50c4",
+        "android_client_info": {
+          "package_name": "com.example.abinet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2285T5tAYC6AxWe5clbXXSAvYE11FDks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836843711117:android:03cd5a8287d0bc57ea50c4",
+        "android_client_info": {
+          "package_name": "com.example.abinet_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2285T5tAYC6AxWe5clbXXSAvYE11FDks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
