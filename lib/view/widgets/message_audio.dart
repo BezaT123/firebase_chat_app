@@ -30,7 +30,7 @@ class MessageAudio extends StatelessWidget {
         children: [
           GestureDetector(
             onTap: () {
-              audioController.onPressedPlayButton(index, message);
+              audioController.onPressedPlayButton(index, message.content);
               // changeProg(duration: duration);
             },
             onSecondaryTap: () {
